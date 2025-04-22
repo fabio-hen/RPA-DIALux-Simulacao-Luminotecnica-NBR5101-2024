@@ -5,6 +5,8 @@ Bem-vindo ao repositório da **Automacao de Simulacoes Luminotecnicas em Vias**,
 ## Visao Geral
 
 Este projeto foi criado com o objetivo de simplificar e acelerar a realizacao de simulacoes luminotecnicas em vias, empregando a combinacao do renomado software **DIALux 4** com a flexibilidade e automacao da linguagem de programacao **Python**. Através dessa automacao, conseguimos reduzir drasticamente o tempo necessário para cada simulação, de **15 minutos para apenas 2 minutos**.
+ > 🔗 **Artigo completo publicado no Medium**: [clique aqui para ler](https://medium.com/@fabio.he/rpa-python-automatizando-simula%C3%A7%C3%B5es-luminot%C3%A9cnicas-no-dialux-com-python-de-15-para-2-minutos-por-f015ff2cc380)
+
 
 ## Requisitos
 
@@ -50,5 +52,7 @@ Este projeto foi desenvolvido para atender a necessidades especificas da empresa
 
 ---
 
-Caso tenha alguma duvida ou sugestao, entre em contato!
+✉️ Contato
+Projeto desenvolvido por Fábio Henrique de Almeida
+> 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/fhalmeida/)
 
